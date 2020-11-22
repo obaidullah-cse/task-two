@@ -1,0 +1,20 @@
+.container{
+    padding: 100px 0;
+}
+.border-1{
+    width: 100px;
+    height: 3px;
+    background-color: #FF8E18;
+}
+.border-2{
+    background-color: #222222;
+    width: 40px;
+    height: 3px;
+}
+.container p{
+    color:#949292;
+}
+.education{
+    text-align: center;
+    margin-top: 50px;
+}
